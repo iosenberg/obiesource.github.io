@@ -1,5 +1,6 @@
 {
-  "name": "obiesource_yen",
+  "name": "obiesource",
+  "homepage": "https://obiesource.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
